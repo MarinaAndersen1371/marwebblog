@@ -1,6 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# MarWebEducationCenter Blog
 
-## Getting Started
+
+* Static Next.js blog that uses Markdown for posts. 
+* Includes pagination, categories and search.
+
+
+![alt text](https://github.com/MarinaAndersen1371/marwebblog/blob/main/public/screen.png)
+------
+#### Getting Started
 
 First, run the development server:
 
